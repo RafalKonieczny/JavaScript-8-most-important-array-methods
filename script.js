@@ -9,7 +9,7 @@ const items = [
 ]
 
 
-// <!-- filter -->
+<!-- filter -->
 
 
 // const filteredItems = items.filter((item) => {
@@ -20,7 +20,7 @@ const items = [
 // console.log(filteredItems)
 
 
-// <!-- map -->
+<!-- map -->
 
 
 // const itemNames = items.map((item) => {
@@ -30,7 +30,7 @@ const items = [
 // console.log(itemNames)
 
 
-// <!-- find -->
+<!-- find -->
 
 
 // const foundItem = items.find((item) => {
@@ -40,7 +40,7 @@ const items = [
 // console.log(foundItem)
 
 
-// <!-- forEach -->
+<!-- forEach -->
 
 
 // items.forEach((item) => {
@@ -48,7 +48,7 @@ const items = [
 // })
 
 
-// <!-- some -->
+<!-- some -->
 
 
 // const hasInexpensiveItems = items.some((item) => {
@@ -58,7 +58,7 @@ const items = [
 // console.log(hasInexpensiveItems)
 
 
-// <!-- every -->
+<!-- every -->
 
 
 // const hasInexpensiveItems = items.every((item) => {
@@ -74,7 +74,7 @@ const items = [
 // console.log(hasInexpensiveItems)
 
 
-// <!-- reduce -->
+<!-- reduce -->
 
 
 // const total = items.reduce((currentTotal, item) => {
@@ -84,7 +84,7 @@ const items = [
 // console.log(total)
 
 
-// <!-- includes -->
+<!-- includes -->
 
 
 // const item = [1, 2, 3, 4, 5]
